@@ -1,1 +1,1 @@
-# dupr-scraper
+# dupr
